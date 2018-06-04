@@ -1,2 +1,2 @@
 # speakup
-Meetings and discussions gets more lively
+Meetings and discussions get more lively
