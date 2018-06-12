@@ -1,5 +1,5 @@
 <h1 align="center">Speak Up</h1>
-<p align="center"> Meetings and discussions get less cumbersome and more lively </p>
+<h3 align="center"> Meetings and discussions get less cumbersome and more lively </h3>
 
 Ever occurred to your mind, why is it so problematic getting your ears on the most important session you had just now. You have some questions, perhaps someone might have asked the same and you wouldn't want to repeat. Oh hell, can someone give him a microphone to talk!! OMG, Microphone is 5 rows behind the audience and it's pretty hard circulating that in time. Isn't there any other way to make these aftermath effective?
 Yes there is a way. These days everyone carry a mobile phone and mostly smart phone everywhere. It has inbuilt mic and wifi connectivity. Leveraging the most commonly available smart phone resources to create a more effective participant interaction seemed to be a cool idea. Why not? So I started working on it.
