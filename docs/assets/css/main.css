@@ -525,6 +525,10 @@
 		.\-1u\28xlarge\29 {
 			margin-left: 8.33333%;
 		}
+		.architecture-img.spotlight .image {
+			margin-left: 6em;
+			margin-right: 6em;
+		}
 
 	}
 
@@ -955,6 +959,7 @@
 		.\-1u\28medium\29 {
 			margin-left: 8.33333%;
 		}
+
 
 	}
 
@@ -2772,7 +2777,7 @@
 		.spotlight .image {
 			width: 100%;
 			/*border-radius: 100%;*/
-			margin: 0 3em 0 0;
+			margin: 2em;
 			display: block;
 		}
 
@@ -2941,7 +2946,7 @@
 		.wrapper > .inner {
 			/*margin-left: auto;*/
 			/*margin-right: auto;*/
-			margin: 5%;
+			/*margin: 5%;*/
 			/*width: 50em;*/
 		}
 
@@ -3154,7 +3159,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #fbfbfb;
+			background-color: #ffffff;
 			color: #999999;
 		}
 
@@ -4153,13 +4158,36 @@
 	}
 
 
-/*Custom CSS*/
-.architecture-img {
-  width: 40%;
-  margin-left: 32%;
+/* Custom CSS */
+.connect-box{
+  padding: 3% 0 3%;
+  display: block;
 }
 
-.connect-box{
-  padding: 3%;
-  display: block;
+.architecture.wrapper.style2.special {
+	padding-top: 1em;
+}
+.architecture .major h2 {
+	margin: 0;
+}
+.architecture header.major:after {
+	margin-top: .5em;
+}
+.architecture header.major {
+	margin-bottom: 1em;
+}
+h1, h2, h3, h4, h5, h6,
+.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
+	color: #6b6868;
+}
+.architecture-img .image {
+	margin-top: 1em;
+}
+@media screen and (max-width: 736px) and (orientation: portrait) {
+	.spotlight .image {
+		max-width: 100%;
+	}
+}
+ul.actions li.learn-more {
+	padding-right: 0;
 }
