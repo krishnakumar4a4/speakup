@@ -529,6 +529,10 @@
 			margin-left: 6em;
 			margin-right: 6em;
 		}
+		.special-content {
+			margin-left: 1.5em;
+			margin-right: 1.5em;
+		}
 
 	}
 
@@ -743,6 +747,10 @@
 
 		.\-1u\28large\29 {
 			margin-left: 8.33333%;
+		}
+		.special-content {
+			margin-left: 1.5em;
+			margin-right: 1.5em;
 		}
 
 	}
